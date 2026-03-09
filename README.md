@@ -2,6 +2,10 @@
 
 Simulate many-to-many WebRTC video conferences on an Electron app running on Linux using virtual network namespaces.
 
+## Demo
+
+![](./demo.gif)
+
 ## Usage
 
 ```
