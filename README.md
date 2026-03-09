@@ -8,6 +8,8 @@ Simulate many-to-many WebRTC video conferences on an Electron app running on Lin
 
 ## Usage
 
+On Linux:
+
 ```
 $ npm ci
 $ node controller.js <number-of-nodes>
