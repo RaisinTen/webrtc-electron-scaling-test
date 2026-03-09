@@ -1,0 +1,19 @@
+{
+  "name": "webrtc-electron-scaling-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node controller.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "electron": "^40.8.0",
+    "virtual-net": "^1.0.1",
+    "ws": "^8.19.0"
+  }
+}
