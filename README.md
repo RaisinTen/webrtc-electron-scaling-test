@@ -15,7 +15,7 @@ $ node controller.js <number-of-nodes>
 
 ## Features
 
-- Creates isolated nodes with configurable latency, packet loss, and bandwidth.
+- Uses [`virtual-net`](https://github.com/RaisinTen/virtual-net) to create isolated nodes with configurable latency, packet loss, and bandwidth.
 - Electron clients stream media between all nodes using WebRTC.
 
 ## License
