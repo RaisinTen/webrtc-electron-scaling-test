@@ -8,6 +8,12 @@ Observation: Playback seems ok for less than 8 clients but it becomes quite jitt
 
 ![](./demo.gif)
 
+## Falls apart with 8 clients
+
+On my setup, playback becomes quite jittery for 8 clients and higher.
+
+![](./jittery.gif)
+
 ## Usage
 
 On Linux:
