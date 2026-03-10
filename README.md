@@ -2,6 +2,8 @@
 
 Simulate many-to-many WebRTC video conferences on an Electron app running on Linux using virtual network namespaces.
 
+Observation: Playback seems ok for less than 8 clients but it becomes quite jittery with higher numbers.
+
 ## Demo
 
 ![](./demo.gif)
